@@ -27,6 +27,6 @@ algorithm to solve the BipedalWalker-v3 continuous control environment.
 - Jupyter Notebook
 
 ## Contents
-- `agent.ipynb`: PPO implementation and training loop
-- `report.pdf`: detailed technical report and analysis
+- `Fifth_Assignment_RL.ipynb`: PPO implementation and training loop
+- `Report_RL.pdf`: detailed technical report and analysis
 - `results/`: reward plots and evaluation video
